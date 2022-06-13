@@ -28,7 +28,7 @@ chave, ex: ******** e duas opções (Jogar ou Solicitar Dica)
 obrigatóriamente deve arriscar uma letra no jogo. O máximo de dicas são 3, portanto o
 competidor pode solicitar apenas 3 dicas durante o game.
  
-5.Quando a opção for de jogar, o competidor deve informar uma
+5. Quando a opção for de jogar, o competidor deve informar uma
 letra. O sistema deve verificar se letra exite na palavra e apresentar
 uma resposta, que no caso de correta deve ser algo tipo: ***A**A**
 , no caso de erro deve ser mostrado o número de erros do jogador, ex:
